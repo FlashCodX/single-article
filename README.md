@@ -4,7 +4,7 @@
 
 A challenge made for Frontend Mentor.
 
-> Check it out: [https://FlashCodX.github.io/article-preview/](https://FlashCodX.github.io/article-preview/)
+> Check it out: [https://FlashCodX.github.io/single-article/](https://FlashCodX.github.io/single-article/)
 
 ## Tech
 
