@@ -1,4 +1,4 @@
-# Single Price
+# Single Article
 
 # ![preview](./src/assets/screenshot.png)
 
